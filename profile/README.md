@@ -1,5 +1,6 @@
 # 👋 Hi there!
 
+![Synt Banner](https://github.com/SyntLang/SyntLang.github.io/blob/main/Banner.png?raw=true)
 Welcome to [SyntLang's GitHub Profile](https://github.synt.ml/)!!!
 
 # [👉 Go to Synt's Official Website!](https://synt.ml/)
@@ -14,19 +15,11 @@ For the history of Synt, it was initiated by Attachment Aditya in year 2020. It 
 # 🧑‍🏫 [Learn Synt!](https://docs.synt.ml/)
 Synt is really easy to learn. You can see the [Official Documentation](https://docs.synt.ml/) and learn from there. You can also visit [Synt ReadTheDocs](https://synt.rtfd.io/).
 
+# Repositories
+[![SyntPy](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPy&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPy)
+
 # 💰 Want to help Synt?
 Working unemployed and that for free is really hard. You can help Synt by funding us with [Patreon](https://patreon.com/AttachmentStudios).
 
 # 📱 Social Media
 We are on [Attachment Studios Discord Server](https://discord.gg/nfM9fKEVPW).
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
