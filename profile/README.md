@@ -24,10 +24,20 @@ It’s way better than an esoteric language. It’s not for a specific purpose, 
 
 Development started - early 2023
 
+# Syntax
+
+## V2
+
+[Visit official site](https://syntlang.github.io/)
+
+## V1
+
+[Visit Old Website Docs](https://syntlang.github.io/docs/)
+
 # Source Code Repositories
 
 ## V2 (Latest)
-[![Synt Plus (V2)](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPlus&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPy)
+[![Synt Plus (V2)](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPlus&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPlus)
 
 ## V1
 [![Synt Legacy (V1)](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPy&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPy)
