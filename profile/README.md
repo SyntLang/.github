@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-![Synt Banner](https://synt.ml/resources/images/Synt%20Banner.png)
+![Synt Banner](https://syntlang.github.io/resources/images/Synt%20Banner.png)
 Welcome to [SyntLang's GitHub Profile](https://github.synt.ml/)!!!
 
 # [👉 Go to Official Website of ~Synt~ Synt+](https://synt.ml/)
@@ -24,14 +24,20 @@ It’s way better than an esoteric language. It’s not for a specific purpose, 
 
 Development started - early 2023
 
+# Source Code Repositories
+
+## V2 (Latest)
+[![Synt Plus (V2)](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPlus&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPy)
+
+## V1
+[![Synt Legacy (V1)](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPy&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPy)
+
+
 # 🧑‍🏫 ~[Learn Synt!](https://docs.synt.ml/)~ ( Outdated, will be soon changed to docs of Synt+ )
 
 > We do not have any plans to release docs on ReadTheDocs anymore, atleast in the present.
 
 Synt is really easy to learn. You can see the [Official Documentation](https://docs.synt.ml/) and learn from there. You can also visit [Synt ReadTheDocs](https://synt.rtfd.io/).
-
-# Repositories
-[![SyntPy](https://github-readme-stats.vercel.app/api/pin?username=SyntLang&repo=SyntPy&bg_color=45,ff00f5,5b00dd&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_owner=false)](https://github.com/SyntLang/SyntPy)
 
 # ~💰 Want to help Synt?~ ( Not anymore )
 Working unemployed and that for free is really hard. You can help Synt by funding us with [Patreon](https://patreon.com/AttachmentStudios).
